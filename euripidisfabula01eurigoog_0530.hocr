@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripidisfabula01eurigoog/euripidisfabula01eurigoog_0530.png"; bbox 0 0 3014 4928; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 218 2091 1191 2245">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 218 2091 1191 2245">
+     <span class='ocr_line' id='line_1_1' title="bbox 218 2091 1191 2245; baseline -0.002 -55"><span class='ocrx_word' id='word_1_1' title='bbox 218 2092 560 2190; x_wconf 85' lang='lat' dir='ltr'><strong>ADDENDA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 597 2092 685 2189; x_wconf 84' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_3' title='bbox 723 2091 1191 2245; x_wconf 81' lang='lat' dir='ltr'><strong>OORRIGENDA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 2336 1278 2387">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 2336 1278 2387">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 2336 1278 2387; baseline -0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 131 2340 296 2387; x_wconf 71' lang='lat' dir='ltr'>MAXIMAM</span> <span class='ocrx_word' id='word_1_5' title='bbox 315 2340 458 2387; x_wconf 78' lang='lat' dir='ltr'>PARTEM</span> <span class='ocrx_word' id='word_1_6' title='bbox 479 2340 526 2386; x_wconf 74' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 2341 575 2386; x_wconf 83' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_8' title='bbox 587 2341 618 2386; x_wconf 87' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_9' title='bbox 629 2340 663 2387; x_wconf 82' lang='grc' dir='ltr'>Μ.</span> <span class='ocrx_word' id='word_1_10' title='bbox 673 2338 860 2386; x_wconf 74' lang='lat' dir='ltr'>BLAYDESII</span> <span class='ocrx_word' id='word_1_11' title='bbox 879 2336 1110 2385; x_wconf 79' lang='lat' dir='ltr'>ADVERSARIIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 1130 2336 1278 2385; x_wconf 74' lang='lat' dir='ltr'><strong>cnl&#39;rlcls</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 216 2443 1194 2495">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 216 2443 1194 2495">
+     <span class='ocr_line' id='line_1_3' title="bbox 216 2443 1194 2495; baseline -0.002 -3"><span class='ocrx_word' id='word_1_13' title='bbox 216 2447 253 2492; x_wconf 88' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_14' title='bbox 272 2447 466 2493; x_wconf 82' lang='lat' dir='ltr'>EURIPIDEM</span> <span class='ocrx_word' id='word_1_15' title='bbox 485 2446 589 2494; x_wconf 79' lang='lat' dir='ltr'>HALIS</span> <span class='ocrx_word' id='word_1_16' title='bbox 609 2445 776 2495; x_wconf 78' lang='lat' dir='ltr'>SAXONUM</span> <span class='ocrx_word' id='word_1_17' title='bbox 794 2445 908 2494; x_wconf 75' lang='lat' dir='ltr'>A.1901</span> <span class='ocrx_word' id='word_1_18' title='bbox 929 2443 1046 2492; x_wconf 84' lang='lat' dir='ltr'>EDITIS</span> <span class='ocrx_word' id='word_1_19' title='bbox 1065 2445 1194 2491; x_wconf 83' lang='grc' dir='ltr'>ΡΕΤΙΤΑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1512 4928">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1512 4928">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1512 4928; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1512 4928; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
